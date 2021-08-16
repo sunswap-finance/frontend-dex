@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react'
-import { CheckmarkCircleIcon, ErrorIcon, Flex, LinkExternal, Text, Modal, Button } from '@saltswap/uikit'
+import { CheckmarkCircleIcon, ErrorIcon, Flex, LinkExternal, Text, Modal, Button } from '@sunswap/sunswap-finance-uikit'
 import { useActiveWeb3React } from 'hooks'
 import { getEtherscanLink } from 'utils'
 import { isTransactionRecent, useAllTransactions } from 'state/transactions/hooks'

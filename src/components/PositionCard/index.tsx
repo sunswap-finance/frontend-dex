@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import { JSBI, Pair, Percent } from '@pancakeswap/sdk'
-import { Button, Card as UIKitCard, CardBody, Text } from '@saltswap/uikit'
+import { JSBI, Pair, Percent } from '@sunswap/sunswap-finance-sdk'
+import { Button, Card as UIKitCard, CardBody, Text } from '@sunswap/sunswap-finance-uikit'
 import { darken } from 'polished'
 import { ChevronDown, ChevronUp } from 'react-feather'
 import { Link } from 'react-router-dom'

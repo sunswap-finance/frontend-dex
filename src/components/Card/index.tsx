@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text } from '@saltswap/uikit'
+import { Text } from '@sunswap/sunswap-finance-uikit'
 
 const Card = styled.div<any>`
   width: 100%;

@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@pancakeswap/sdk'
+import { Token, TokenAmount } from '@sunswap/sunswap-finance-sdk'
 import { useMemo } from 'react'
 
 import { useTokenContract } from '../hooks/useContract'

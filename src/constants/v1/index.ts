@@ -1,5 +1,5 @@
 import { Interface } from '@ethersproject/abi'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@sunswap/sunswap-finance-sdk'
 import V1_EXCHANGE_ABI from './v1_exchange.json'
 import V1_FACTORY_ABI from './v1_factory.json'
 

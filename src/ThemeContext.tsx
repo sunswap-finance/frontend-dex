@@ -1,6 +1,6 @@
 import React, { useCallback, useEffect, useState } from 'react'
 import { ThemeProvider as SCThemeProvider } from 'styled-components'
-import { light, dark } from '@saltswap/uikit'
+import { light, dark } from '@sunswap/sunswap-finance-uikit'
 
 const CACHE_KEY = 'IS_DARK'
 

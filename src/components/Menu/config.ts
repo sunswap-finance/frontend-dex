@@ -1,4 +1,4 @@
-import { MenuEntry } from '@saltswap/uikit'
+import { MenuEntry } from '@sunswap/sunswap-finance-uikit'
 
 const config: MenuEntry[] = [
   {
@@ -84,31 +84,27 @@ const config: MenuEntry[] = [
   //     },
   //   ]
   // },
-  // {
-  //   label: 'More',
-  //   icon: 'MoreIcon',
-  //   items: [
-  //     // {
-  //     //   label: 'Voting',
-  //     //   href: 'https://voting.sunswapfinance.com',
-  //     // },
-  //     {
-  //       label: "Github",
-  //       href: "https://github.com/saltswap/",
-  //       icon: 'GithubIcon'
-  //     },
-  //     {
-  //       label: "Docs",
-  //       href: "https://saltswap.gitbook.io/salt-swap",
-  //       icon: 'GitbookIcon'
-  //     },
-  //     {
-  //       label: "Blog",
-  //       href: "https://saltswap.medium.com",
-  //       icon: 'MediumIcon'
-  //     },
-  //   ],
-  // },
+  {
+    label: "More",
+    icon: "MoreIcon",
+    items: [
+      {
+        label: "Github",
+        href: "https://github.com/sunswap-finance",
+        icon: "GithubIcon",
+      },
+      {
+        label: "Docs",
+        href: "https://docs.sunswapfinance.com",
+        icon: "GitbookIcon",
+      },
+      {
+        label: "Blog",
+        href: "https://medium.com/@SunSwap.Finance",
+        icon: "MediumIcon",
+      },
+    ],
+  },
 ]
 
 export default config

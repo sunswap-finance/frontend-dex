@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Percent, Token, WETH } from '@pancakeswap/sdk'
+import { ChainId, JSBI, Percent, Token, WETH } from '@sunswap/sunswap-finance-sdk'
 import { AbstractConnector } from '@web3-react/abstract-connector'
 
 // import { bsc, fortmatic, injected, portis, walletconnect, walletlink } from '../connectors'

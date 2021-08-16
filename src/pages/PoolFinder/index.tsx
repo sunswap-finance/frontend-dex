@@ -1,6 +1,6 @@
-import { Currency, ETHER, JSBI, TokenAmount } from '@pancakeswap/sdk'
+import { Currency, ETHER, JSBI, TokenAmount } from '@sunswap/sunswap-finance-sdk'
 import React, { useCallback, useEffect, useState } from 'react'
-import { Button, ChevronDownIcon, AddIcon, CardBody, Text } from '@saltswap/uikit'
+import { Button, ChevronDownIcon, AddIcon, CardBody, Text } from '@sunswap/sunswap-finance-uikit'
 import CardNav from 'components/CardNav'
 import { LightCard } from 'components/Card'
 import { AutoColumn, ColumnCenter } from 'components/Column'

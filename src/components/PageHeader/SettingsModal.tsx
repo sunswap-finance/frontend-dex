@@ -1,5 +1,5 @@
 import React from 'react'
-import { Modal } from '@saltswap/uikit'
+import { Modal } from '@sunswap/sunswap-finance-uikit'
 import SlippageToleranceSetting from './SlippageToleranceSetting'
 import TransactionDeadlineSetting from './TransactionDeadlineSetting'
 

@@ -1,7 +1,7 @@
 import React from 'react'
 import { createWeb3ReactRoot, Web3ReactProvider } from '@web3-react/core'
 import { Provider } from 'react-redux'
-import { ModalProvider } from '@saltswap/uikit'
+import { ModalProvider } from '@sunswap/sunswap-finance-uikit'
 import { NetworkContextName } from './constants'
 import store from './state'
 import getLibrary from './utils/getLibrary'

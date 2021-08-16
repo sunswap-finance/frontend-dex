@@ -1,6 +1,6 @@
 import React, { ReactNode } from 'react'
 import styled from 'styled-components'
-import { Heading, IconButton, CloseIcon } from '@saltswap/uikit'
+import { Heading, IconButton, CloseIcon } from '@sunswap/sunswap-finance-uikit'
 import { AutoColumn, ColumnCenter } from '../Column'
 
 export const Wrapper = styled.div`

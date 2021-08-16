@@ -1,6 +1,6 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from '@sunswap/sunswap-finance-sdk'
 import React from 'react'
-import { Button } from '@saltswap/uikit'
+import { Button } from '@sunswap/sunswap-finance-uikit'
 import { RowBetween, RowFixed } from '../../components/Row'
 import CurrencyLogo from '../../components/CurrencyLogo'
 import { Field } from '../../state/mint/actions'

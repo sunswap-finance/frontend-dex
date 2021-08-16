@@ -1,4 +1,4 @@
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@sunswap/sunswap-finance-sdk'
 import { createStore, Store } from 'redux'
 import { addPopup, removePopup, toggleSettingsMenu, toggleWalletModal, updateBlockNumber } from './actions'
 import reducer, { ApplicationState } from './reducer'

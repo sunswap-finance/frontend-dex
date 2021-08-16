@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react'
-import { Currency, Pair } from '@pancakeswap/sdk'
-import { Button, ChevronDownIcon, Text } from '@saltswap/uikit'
+import { Currency, Pair } from '@sunswap/sunswap-finance-sdk'
+import { Button, ChevronDownIcon, Text } from '@sunswap/sunswap-finance-uikit'
 import styled from 'styled-components'
 import { darken } from 'polished'
 import { useCurrencyBalance } from '../../state/wallet/hooks'

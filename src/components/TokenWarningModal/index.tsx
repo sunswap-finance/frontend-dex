@@ -1,6 +1,6 @@
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@sunswap/sunswap-finance-sdk'
 import { transparentize } from 'polished'
-import { Button, Text } from '@saltswap/uikit'
+import { Button, Text } from '@sunswap/sunswap-finance-uikit'
 import React, { useCallback, useMemo, useState } from 'react'
 import styled from 'styled-components'
 import { AlertTriangle } from 'react-feather'
