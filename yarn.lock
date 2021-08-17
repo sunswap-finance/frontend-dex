@@ -3634,10 +3634,10 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@sunswap/sunswap-finance-uikit@^1.2.33":
-  version "1.2.33"
-  resolved "https://registry.yarnpkg.com/@sunswap/sunswap-finance-uikit/-/sunswap-finance-uikit-1.2.33.tgz#6c8a0d6e61886d2af6105b3fcf3f649c4cabcf25"
-  integrity sha512-GW94e3PlNs0InC5DjmEf1Q0zDIZBuYgdRAFoMuWbTcPoePn1VjG/pLkNGdUXrgcCykn2NVr5hMTwktHsmGrSQg==
+"@sunswap/sunswap-finance-uikit@^1.2.34":
+  version "1.2.34"
+  resolved "https://registry.yarnpkg.com/@sunswap/sunswap-finance-uikit/-/sunswap-finance-uikit-1.2.34.tgz#41fdee700d2dc891a99a81322c4e577b36addfee"
+  integrity sha512-+p3+iZM9G+WHIAeK3Ms1NhWZeuMFWeNVievFEZTqqtyLTTopJuoz8EYvmBQuml72KtNWhKm/ZEt2t4gownopDQ==
   dependencies:
     "@sunswap/sunswap-finance-core" "^0.1.0"
     "@types/lodash" "^4.14.162"
