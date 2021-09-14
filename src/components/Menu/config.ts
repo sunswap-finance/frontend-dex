@@ -41,11 +41,11 @@ const config: MenuEntry[] = [
   //   icon: 'IdoIcon',
   //   href: 'https://sunswapfinance.com/ido',
   // },
-  // {
-  //   label: 'Audited By Certik ✅',
-  //   icon: 'AuditIcon',
-  //   href: 'https://certik.org/projects/saltswap',
-  // },
+  {
+    label: "Audit By TechRate",
+    icon: "AuditIcon",
+    href: "https://docs.sunswapfinance.com/audit",
+  },
   // {
   //   label: 'Price Graph',
   //   icon: 'GraphIcon',
